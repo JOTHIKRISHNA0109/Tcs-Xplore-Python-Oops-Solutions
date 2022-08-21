@@ -1,4 +1,4 @@
-'''Question 11:Online Vegetable Store
+'''Online Vegetable Store
 Create a class Vegetable with the below attributes:
 name of type String name of the vegetable price of type float //price ( in Rupees ) of the Fx: Kilogram quantity of type int ,/ quantity — number of units / Number of Kilograms
 Create the init method which takes all parameters in the above sequence. The method should set the value of attributes with the parameter values received from main function.
